@@ -1,3 +1,5 @@
+Solution for a coding exercise on Exercism: https://exercism.org/tracks/go/exercises/forth
+
 # Forth
 
 Welcome to Forth on Exercism's Go Track.
@@ -29,22 +31,3 @@ more letters, digits, symbols or punctuation that is not a number.
 enough.)
 
 Words are case-insensitive.
-
-## Source
-
-### Created by
-
-- @leenipper
-
-### Contributed to by
-
-- @alebaffa
-- @bitfield
-- @da-edra
-- @ekingery
-- @ferhatelmas
-- @hilary
-- @ilmanzo
-- @robphoenix
-- @sebito91
-- @eklatzer
